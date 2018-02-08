@@ -8,6 +8,7 @@ Several bugs with accounts and app functionality have been eliminated since the 
 After extensive user testing and taking the feedback into account, we decided against implementing some of the more advanced sharing and social functionality we originally wanted to include due to compatibility and ease of use issues.
 
 **To Install App**
+
 Download the .apk file either from this repository or by scanning the QR code further down the readme file and install on any Android phone
 
 ### Screenshots of App
